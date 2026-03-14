@@ -1,0 +1,358 @@
+2026-03-14 20:52:04,153 - __main__ - INFO - Запуск userbot...
+2026-03-14 20:52:04,177 - __main__ - INFO - Подключено к базе данных
+2026-03-14 20:52:04,178 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-03-14 20:52:05,623 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2026-03-14 20:53:38,077 - telethon.network.connection.connection - WARNING - Server closed the connection: 0 bytes read on a total of 8 expected bytes
+2026-03-14 20:53:38,078 - telethon.network.mtprotosender - INFO - Connection closed while receiving data: 0 bytes read on a total of 8 expected bytes
+2026-03-14 20:53:38,078 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2026-03-14 20:53:38,079 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-03-14 20:53:38,130 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2026-03-14 20:53:51,185 - __main__ - INFO - Userbot запущен и готов к работе!
+2026-03-14 20:53:51,309 - __main__ - INFO - Вошли как: Творог  (@nikct0)
+2026-03-14 20:53:51,310 - __main__ - INFO - ID аккаунта: 1132255032
+2026-03-14 20:53:51,310 - __main__ - INFO - Всего сообщений в базе: 0
+2026-03-14 20:53:51,311 - __main__ - INFO - Доступные команды (в личных сообщениях):
+2026-03-14 20:53:51,311 - __main__ - INFO -   /parse @username - парсинг истории чата
+2026-03-14 20:53:51,311 - __main__ - INFO -   /stats - статистика
+2026-03-14 20:53:51,311 - __main__ - INFO -   /help - справка
+2026-03-14 20:54:02,802 - telethon.client.updates - INFO - Got difference for account updates
+2026-03-14 20:54:02,805 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '⚡️**Иран атаковал отделения американского Citibank в Дубае и Манаме**, — КСИР.
+
+Там также отметили, ' | chat_id: -1001754252633 | is_private: False
+2026-03-14 20:54:05,662 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '/help' | chat_id: 1935382886 | is_private: True
+2026-03-14 20:54:05,662 - __main__ - INFO - ⚡ Обнаружена команда в общем обработчике: '/help' - пропускаем для специальных обработчиков
+2026-03-14 20:54:05,762 - __main__ - INFO - 🔍 ОБРАБОТЧИК /help: chat_id: 1935382886 | is_private: True | is_saved: False
+2026-03-14 20:54:26,358 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Хорошо' | chat_id: -1002183353292 | is_private: False
+2026-03-14 20:54:30,590 - __main__ - INFO - 🎯 ОБРАБОТЧИК /parse СРАБОТАЛ! Сообщение: '/parse @Artik21yt' | chat_id: 1079010086
+2026-03-14 20:54:30,684 - __main__ - INFO - 🔍 Детали: is_private: True | is_saved: False | my_id: 1132255032
+2026-03-14 20:54:30,685 - __main__ - INFO - 📋 Парсинг аргументов: chat_identifier='@Artik21yt', остальное='[]'
+2026-03-14 20:54:30,944 - __main__ - INFO - Начало парсинга истории чата: Zxc Тёма 4 (ID: 1079010086)
+2026-03-14 20:54:33,070 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 100
+2026-03-14 20:54:36,378 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 200
+2026-03-14 20:54:39,425 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 300
+2026-03-14 20:54:42,465 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 400
+2026-03-14 20:54:45,594 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 500
+2026-03-14 20:54:46,668 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Делай хорошо' | chat_id: -1002183353292 | is_private: False
+2026-03-14 20:54:48,806 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 600
+2026-03-14 20:54:51,845 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 700
+2026-03-14 20:54:54,880 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 800
+2026-03-14 20:54:57,199 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Внимательно' | chat_id: -1002183353292 | is_private: False
+2026-03-14 20:54:58,047 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 900
+2026-03-14 20:55:01,121 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 1000
+2026-03-14 20:55:04,325 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 1100
+2026-03-14 20:55:05,587 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Да' | chat_id: 1206562402 | is_private: True
+2026-03-14 20:55:07,509 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 1200
+2026-03-14 20:55:10,512 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 1300
+2026-03-14 20:55:13,566 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 1400
+2026-03-14 20:55:16,664 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 1500
+2026-03-14 20:55:19,762 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 1600
+2026-03-14 20:55:21,601 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Нет' | chat_id: 1206562402 | is_private: True
+2026-03-14 20:55:23,015 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 1700
+2026-03-14 20:55:24,125 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Скучаю' | chat_id: 1206562402 | is_private: True
+2026-03-14 20:55:26,173 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 1800
+2026-03-14 20:55:29,248 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 1900
+2026-03-14 20:55:32,351 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 2000
+2026-03-14 20:55:35,328 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 2100
+2026-03-14 20:55:38,573 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 2200
+2026-03-14 20:55:41,608 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 2300
+2026-03-14 20:55:44,369 - __main__ - INFO - 🔍 ОБРАБОТЧИК /help: chat_id: 1079010086 | is_private: True | is_saved: False
+2026-03-14 20:55:44,793 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 2400
+2026-03-14 20:55:47,914 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 2500
+2026-03-14 20:55:51,665 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 2600
+2026-03-14 20:56:10,297 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'это ты пиздец порылся' | chat_id: 1079010086 | is_private: True
+2026-03-14 20:56:14,353 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 2700
+2026-03-14 20:56:17,369 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 2800
+2026-03-14 20:56:20,409 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 2900
+2026-03-14 20:56:23,472 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 3000
+2026-03-14 20:56:26,898 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 3100
+2026-03-14 20:56:30,008 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 3200
+2026-03-14 20:56:33,008 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 3300
+2026-03-14 20:56:36,052 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 3400
+2026-03-14 20:56:38,983 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 3500
+2026-03-14 20:56:42,168 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 3600
+2026-03-14 20:56:45,218 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 3700
+2026-03-14 20:56:48,194 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 3800
+2026-03-14 20:56:51,224 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 3900
+2026-03-14 20:56:54,211 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 4000
+2026-03-14 20:56:57,392 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 4100
+2026-03-14 20:57:00,403 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 4200
+2026-03-14 20:57:02,155 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'ахуею' | chat_id: 1079010086 | is_private: True
+2026-03-14 20:57:03,450 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 4300
+2026-03-14 20:57:06,451 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 4400
+2026-03-14 20:57:09,600 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 4500
+2026-03-14 20:57:10,608 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2026-03-14 20:57:10,609 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-03-14 20:57:10,614 - __main__ - INFO - Остановка userbot...
+2026-03-14 20:57:13,056 - __main__ - INFO - Запуск userbot...
+2026-03-14 20:57:13,058 - __main__ - INFO - Подключено к базе данных
+2026-03-14 20:57:13,058 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-03-14 20:57:13,106 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2026-03-14 20:57:13,815 - __main__ - INFO - Userbot запущен и готов к работе!
+2026-03-14 20:57:13,916 - __main__ - INFO - Вошли как: Творог  (@nikct0)
+2026-03-14 20:57:13,916 - __main__ - INFO - ID аккаунта: 1132255032
+2026-03-14 20:57:13,917 - __main__ - INFO - Всего сообщений в базе: 4511
+2026-03-14 20:57:13,917 - __main__ - INFO - Доступные команды (в личных сообщениях):
+2026-03-14 20:57:13,918 - __main__ - INFO -   /parse @username - парсинг истории чата
+2026-03-14 20:57:13,918 - __main__ - INFO -   /stats - статистика
+2026-03-14 20:57:13,918 - __main__ - INFO -   /help - справка
+2026-03-14 20:57:40,780 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'если ты 2 раза напишешь' | chat_id: 1079010086 | is_private: True
+2026-03-14 20:57:44,116 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'ничего не поменяется' | chat_id: 1079010086 | is_private: True
+2026-03-14 20:57:44,944 - __main__ - INFO - 🎯 ОБРАБОТЧИК /parse СРАБОТАЛ! Сообщение: '/parse @Artik21yt limit=1000' | chat_id: 1079010086
+2026-03-14 20:57:45,051 - __main__ - INFO - 🔍 Детали: is_private: True | is_saved: False | my_id: 1132255032
+2026-03-14 20:57:45,051 - __main__ - INFO - 📋 Парсинг аргументов: chat_identifier='@Artik21yt', остальное='['limit=1000']'
+2026-03-14 20:57:45,051 - __main__ - INFO - 📊 Установлен лимит: 1000
+2026-03-14 20:57:45,306 - __main__ - INFO - Начало парсинга истории чата: Zxc Тёма 4 (ID: 1079010086)
+2026-03-14 20:57:47,469 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 100
+2026-03-14 20:57:50,909 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 200
+2026-03-14 20:57:53,866 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 300
+2026-03-14 20:57:56,960 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 400
+2026-03-14 20:57:59,939 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'окей' | chat_id: 1079010086 | is_private: True
+2026-03-14 20:58:00,102 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 500
+2026-03-14 20:58:03,098 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 600
+2026-03-14 20:58:06,173 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 700
+2026-03-14 20:58:09,280 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 800
+2026-03-14 20:58:12,346 - __main__ - INFO - Обработано сообщений из Zxc Тёма 4: 900
+2026-03-14 20:58:15,408 - __main__ - INFO - Парсинг завершен: Zxc Тёма 4. Обработано: 999, Ошибок: 0
+2026-03-14 20:59:05,228 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '' | chat_id: -1002183353292 | is_private: False
+2026-03-14 20:59:23,908 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'чиво' | chat_id: 1079010086 | is_private: True
+2026-03-14 20:59:25,800 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '5513' | chat_id: 1079010086 | is_private: True
+2026-03-14 20:59:26,566 - telethon.client.updates - INFO - Got difference for account updates
+2026-03-14 20:59:27,295 - telethon.client.updates - INFO - Got difference for channel 1232768830 updates
+2026-03-14 20:59:27,295 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Оо, хорошо, присмотрюсь) спасибо' | chat_id: -1001232768830 | is_private: False
+2026-03-14 20:59:27,296 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Обычный это какой?' | chat_id: -1001232768830 | is_private: False
+2026-03-14 20:59:27,296 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'мишка тоже неочень?' | chat_id: -1001232768830 | is_private: False
+2026-03-14 20:59:27,296 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Быстро и хорошо печатает,выглядит хорошо' | chat_id: -1001232768830 | is_private: False
+2026-03-14 20:59:27,297 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Нуууу, каленый кончик и медная основная часть' | chat_id: -1001232768830 | is_private: False
+2026-03-14 20:59:27,297 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Я не пользовался,не знаю,но я на них так себе смотрю' | chat_id: -1001232768830 | is_private: False
+2026-03-14 20:59:27,297 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Медная* 
+Нет там латуни' | chat_id: -1001232768830 | is_private: False
+2026-03-14 20:59:27,297 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Понял, а почему?' | chat_id: -1001232768830 | is_private: False
+2026-03-14 20:59:27,298 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Сути особо не меняет' | chat_id: -1001232768830 | is_private: False
+2026-03-14 20:59:27,298 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'У чиди есть вот такая штука для аброзивов' | chat_id: -1001232768830 | is_private: False
+2026-03-14 20:59:27,298 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'https://eu.qidi3d.com/products/q2-tungsten-carbide-bimetal-nozzle-1pc' | chat_id: -1001232768830 | is_private: False
+2026-03-14 20:59:34,531 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'что он делает вообще?' | chat_id: 1079010086 | is_private: True
+2026-03-14 21:00:05,430 - telethon.client.updates - INFO - Got difference for account updates
+2026-03-14 21:00:05,552 - telethon.client.updates - INFO - Got difference for channel 1208176506 updates
+2026-03-14 21:00:05,679 - telethon.client.updates - INFO - Got difference for channel 1275066803 updates
+2026-03-14 21:00:05,806 - telethon.client.updates - INFO - Got difference for channel 2222390836 updates
+2026-03-14 21:00:05,806 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '⚡️**А ведь многие дебилы, хейтили этот шедевр в год выхода**' | chat_id: -1002222390836 | is_private: False
+2026-03-14 21:00:06,086 - telethon.client.updates - INFO - Got difference for channel 1232768830 updates
+2026-03-14 21:00:06,087 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'И вставка там с карбидом вольфрама' | chat_id: -1001232768830 | is_private: False
+2026-03-14 21:00:06,087 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Все равно композиты можно' | chat_id: -1001232768830 | is_private: False
+2026-03-14 21:00:06,088 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Поэтому не суть' | chat_id: -1001232768830 | is_private: False
+2026-03-14 21:00:06,088 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Это базовое сопло которое в комплекте идёт' | chat_id: -1001232768830 | is_private: False
+2026-03-14 21:00:23,272 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Накидал на скорую руку через пару дней сделаю нормальное видео и фоточки скину' | chat_id: -1001620486291 | is_private: False
+2026-03-14 21:00:30,571 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'хуй' | chat_id: 1935382886 | is_private: True
+2026-03-14 21:00:36,665 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'ого' | chat_id: 1079010086 | is_private: True
+2026-03-14 21:01:03,147 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'в 5 второй ответ не 13, а 23' | chat_id: -5208978590 | is_private: False
+2026-03-14 21:02:07,952 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'бля' | chat_id: 1079010086 | is_private: True
+2026-03-14 21:02:09,379 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'забыть' | chat_id: 1079010086 | is_private: True
+2026-03-14 21:02:31,500 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '' | chat_id: 1079010086 | is_private: True
+2026-03-14 21:02:38,293 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '**Вечернее фото с букетом роз **
+
+Промпт для такого фото можно найти тут: [@veo3prompts](https://t.m' | chat_id: 8418566789 | is_private: True
+2026-03-14 21:03:03,783 - telethon.client.updates - INFO - Got difference for channel 2222390836 updates
+2026-03-14 21:03:24,092 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'ГААААЗ' | chat_id: -1002183353292 | is_private: False
+2026-03-14 21:03:25,048 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'стасон' | chat_id: -1002183353292 | is_private: False
+2026-03-14 21:03:26,614 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'одевайся' | chat_id: -1002183353292 | is_private: False
+2026-03-14 21:03:33,689 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '@stasanas52' | chat_id: -1002183353292 | is_private: False
+2026-03-14 21:03:44,606 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Иду' | chat_id: -1002183353292 | is_private: False
+2026-03-14 21:04:22,146 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '/help' | chat_id: 1206562402 | is_private: True
+2026-03-14 21:04:22,147 - __main__ - INFO - ⚡ Обнаружена команда в общем обработчике: '/help' - пропускаем для специальных обработчиков
+2026-03-14 21:04:22,255 - __main__ - INFO - 🔍 ОБРАБОТЧИК /help: chat_id: 1206562402 | is_private: True | is_saved: False
+2026-03-14 21:04:58,029 - __main__ - INFO - 🎯 ОБРАБОТЧИК /parse СРАБОТАЛ! Сообщение: '/parse @surnayakosichka limit=1000' | chat_id: 1206562402
+2026-03-14 21:04:58,131 - __main__ - INFO - 🔍 Детали: is_private: True | is_saved: False | my_id: 1132255032
+2026-03-14 21:04:58,132 - __main__ - INFO - 📋 Парсинг аргументов: chat_identifier='@surnayakosichka', остальное='['limit=1000']'
+2026-03-14 21:04:58,132 - __main__ - INFO - 📊 Установлен лимит: 1000
+2026-03-14 21:04:58,363 - __main__ - INFO - Начало парсинга истории чата: Любимая ❤️‍🔥 (ID: 1206562402)
+2026-03-14 21:05:00,597 - __main__ - INFO - Обработано сообщений из Любимая ❤️‍🔥: 100
+2026-03-14 21:05:03,597 - __main__ - INFO - Обработано сообщений из Любимая ❤️‍🔥: 200
+2026-03-14 21:05:06,757 - __main__ - INFO - Обработано сообщений из Любимая ❤️‍🔥: 300
+2026-03-14 21:05:09,754 - __main__ - INFO - Обработано сообщений из Любимая ❤️‍🔥: 400
+2026-03-14 21:05:12,811 - __main__ - INFO - Обработано сообщений из Любимая ❤️‍🔥: 500
+2026-03-14 21:05:15,827 - __main__ - INFO - Обработано сообщений из Любимая ❤️‍🔥: 600
+2026-03-14 21:05:19,010 - __main__ - INFO - Обработано сообщений из Любимая ❤️‍🔥: 700
+2026-03-14 21:05:22,100 - __main__ - INFO - Обработано сообщений из Любимая ❤️‍🔥: 800
+2026-03-14 21:05:25,153 - __main__ - INFO - Обработано сообщений из Любимая ❤️‍🔥: 900
+2026-03-14 21:05:28,037 - __main__ - INFO - Парсинг завершен: Любимая ❤️‍🔥. Обработано: 998, Ошибок: 0
+2026-03-14 21:05:52,413 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '/stats' | chat_id: 1206562402 | is_private: True
+2026-03-14 21:05:52,414 - __main__ - INFO - ⚡ Обнаружена команда в общем обработчике: '/stats' - пропускаем для специальных обработчиков
+2026-03-14 21:06:08,380 - telethon.client.updates - INFO - Got difference for account updates
+2026-03-14 21:06:08,380 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Ребят' | chat_id: -1002546500967 | is_private: False
+2026-03-14 21:06:09,033 - telethon.client.updates - INFO - Got difference for channel 1232768830 updates
+2026-03-14 21:06:09,033 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Нет, вот базовое' | chat_id: -1001232768830 | is_private: False
+2026-03-14 21:06:09,034 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'https://eu.qidi3d.com/products/q2-bimetal-nozzles2pc' | chat_id: -1001232768830 | is_private: False
+2026-03-14 21:06:09,034 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'На одном будет маркировка W, на том, который в комплекте ее нет' | chat_id: -1001232768830 | is_private: False
+2026-03-14 21:06:09,034 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'У базового спола никакого карбида вольфрама нет' | chat_id: -1001232768830 | is_private: False
+2026-03-14 21:06:09,035 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Мне в принципе зашивка нужна только для создания термокамеры максимум до 65' | chat_id: -1001232768830 | is_private: False
+2026-03-14 21:06:09,035 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Ну лично мне не дизайн,ни конструкция не нравится' | chat_id: -1001232768830 | is_private: False
+2026-03-14 21:06:09,035 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'но перед этим придется из asa гантри печь.' | chat_id: -1001232768830 | is_private: False
+2026-03-14 21:06:09,035 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Однако я печатал pa6-cf (15%) и тем и другим и не один раз. Разницы не заметил, оба сопла живые' | chat_id: -1001232768830 | is_private: False
+2026-03-14 21:06:09,036 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'А характеристики?' | chat_id: -1001232768830 | is_private: False
+2026-03-14 21:06:09,036 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Да и сам бренд который почти что обанкротился,потом благодаря рекламе кое как что то' | chat_id: -1001232768830 | is_private: False
+2026-03-14 21:06:09,036 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Не вызывает доверия что то)' | chat_id: -1001232768830 | is_private: False
+2026-03-14 21:06:09,036 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Попробуй горелкой прогреть и зафиксировать струбцинами на ровной поверхности' | chat_id: -1001232768830 | is_private: False
+2026-03-14 21:06:09,037 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'Добрый! 
+1 слой печатает +- хорошо, начиная со 2 слоя он сдирает и по ощущениям пластик не выходит, ' | chat_id: -1001232768830 | is_private: False
+2026-03-14 21:06:09,037 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '' | chat_id: -1001232768830 | is_private: False
+2026-03-14 21:06:09,037 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'А че такой кораблик страшный? ты его со дна моря поднял что ли?:)))' | chat_id: -1001232768830 | is_private: False
+2026-03-14 21:06:09,037 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'А что за филамент?' | chat_id: -1001232768830 | is_private: False
+2026-03-14 21:07:13,501 - telethon.client.updates - INFO - Got difference for account updates
+2026-03-14 21:08:34,001 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2026-03-14 21:08:34,002 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-03-14 21:08:34,009 - __main__ - INFO - Остановка userbot...
+2026-03-15 02:02:57,381 - __main__ - INFO - Запуск userbot...
+2026-03-15 02:02:57,384 - __main__ - INFO - Подключено к базе данных
+2026-03-15 02:02:57,385 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-03-15 02:02:57,429 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2026-03-15 02:02:58,013 - __main__ - INFO - Userbot запущен и готов к работе!
+2026-03-15 02:02:58,114 - __main__ - INFO - Вошли как: Творог  (@nikct0)
+2026-03-15 02:02:58,114 - __main__ - INFO - ID аккаунта: 1132255032
+2026-03-15 02:02:58,118 - __main__ - INFO - Всего сообщений в базе: 6573
+2026-03-15 02:02:58,119 - __main__ - INFO - Доступные команды (в личных сообщениях): /parse, /stats, /help
+2026-03-15 02:03:10,506 - __main__ - INFO - 🔍 ОБРАБОТЧИК /help: chat_id: 1935382886 | is_private: True | is_saved: False
+2026-03-15 02:04:44,490 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2026-03-15 02:04:44,491 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-03-15 02:04:44,497 - __main__ - INFO - Остановка userbot...
+2026-03-15 02:05:10,486 - __main__ - INFO - Запуск userbot...
+2026-03-15 02:05:10,489 - __main__ - INFO - Подключено к базе данных
+2026-03-15 02:05:10,490 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-03-15 02:05:10,534 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2026-03-15 02:05:11,300 - __main__ - INFO - Userbot запущен и готов к работе!
+2026-03-15 02:05:11,433 - __main__ - INFO - Бизнес-бот (Business API) запущен в фоне.
+2026-03-15 02:05:11,990 - __main__ - INFO - Вошли как: Творог  (@nikct0)
+2026-03-15 02:05:11,990 - __main__ - INFO - ID аккаунта: 1132255032
+2026-03-15 02:05:11,992 - __main__ - INFO - Всего сообщений в базе: 6573
+2026-03-15 02:05:11,992 - __main__ - INFO - Доступные команды (в личных сообщениях): /parse, /stats, /help
+2026-03-15 02:05:11,992 - __main__ - INFO - Бизнес-бот: подключение в Настройки → Бизнес → Чат-боты
+2026-03-15 02:05:12,286 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8760803948:AAEUCVnpVmQG_c9MIRy1ux0TwySxk9pni2w/getMe "HTTP/1.1 200 OK"
+2026-03-15 02:05:12,288 - telegram.ext.Application - INFO - Application started
+2026-03-15 02:05:12,288 - business_bot - INFO - Бизнес-бот запущен (Business API).
+2026-03-15 02:05:12,352 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8760803948:AAEUCVnpVmQG_c9MIRy1ux0TwySxk9pni2w/deleteWebhook "HTTP/1.1 200 OK"
+2026-03-15 02:05:12,665 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8760803948:AAEUCVnpVmQG_c9MIRy1ux0TwySxk9pni2w/getUpdates "HTTP/1.1 200 OK"
+2026-03-15 02:05:12,666 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2026-03-15 02:05:12,666 - telegram.ext.Application - INFO - Application.stop() complete
+2026-03-15 02:05:27,659 - __main__ - INFO - 🔍 ОБРАБОТЧИК /help: chat_id: 8760803948 | is_private: True | is_saved: False
+2026-03-15 02:05:40,240 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'dsvdsv' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:06:00,261 - telethon.client.updates - INFO - Got difference for account updates
+2026-03-15 02:06:01,024 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'sdvsd' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:12:11,154 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2026-03-15 02:12:11,155 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-03-15 02:12:11,161 - __main__ - INFO - Остановка userbot...
+2026-03-15 02:12:14,503 - __main__ - INFO - Запуск userbot...
+2026-03-15 02:12:14,506 - __main__ - INFO - Подключено к базе данных
+2026-03-15 02:12:14,506 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-03-15 02:12:14,550 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2026-03-15 02:12:15,156 - __main__ - INFO - Userbot запущен и готов к работе!
+2026-03-15 02:12:15,251 - __main__ - INFO - Вошли как: Творог  (@nikct0)
+2026-03-15 02:12:15,251 - __main__ - INFO - ID аккаунта: 1132255032
+2026-03-15 02:12:15,252 - __main__ - INFO - Всего сообщений в базе: 6575
+2026-03-15 02:12:15,252 - __main__ - INFO - Доступные команды (в личных сообщениях): /parse, /stats, /help
+2026-03-15 02:12:22,452 - __main__ - INFO - 🔍 ОБРАБОТЧИК /help: chat_id: 8760803948 | is_private: True | is_saved: False
+2026-03-15 02:13:17,682 - __main__ - INFO - Запуск userbot...
+2026-03-15 02:13:17,686 - __main__ - INFO - Подключено к базе данных
+2026-03-15 02:13:17,686 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-03-15 02:13:17,732 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2026-03-15 02:13:18,391 - __main__ - INFO - Userbot запущен и готов к работе!
+2026-03-15 02:13:18,963 - __main__ - INFO - Уведомления через бота включены (NOTIFY_CHAT_ID=1132255032)
+2026-03-15 02:13:19,058 - __main__ - INFO - Вошли как: Творог  (@nikct0)
+2026-03-15 02:13:19,059 - __main__ - INFO - ID аккаунта: 1132255032
+2026-03-15 02:13:19,060 - __main__ - INFO - Всего сообщений в базе: 6575
+2026-03-15 02:13:19,060 - __main__ - INFO - Доступные команды (в личных сообщениях): /parse, /stats, /help
+2026-03-15 02:13:19,060 - __main__ - INFO - Уведомления об удалениях/редактированиях включены (бот → NOTIFY_CHAT_ID)
+2026-03-15 02:13:45,207 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'sd' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:13:48,634 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '🗑 Удалено в «Cre7»
+От: @Okcpok
+Текст: sd' | chat_id: 8760803948 | is_private: True
+2026-03-15 02:13:48,664 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8760803948:AAEUCVnpVmQG_c9MIRy1ux0TwySxk9pni2w/sendMessage "HTTP/1.1 200 OK"
+2026-03-15 02:14:22,054 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'ji' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:14:28,115 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:14:31,190 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:14:35,120 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:14:40,720 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:14:43,211 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:14:50,270 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '🗑 Удалено в «Cre7»
+От: @Okcpok [медиа]
+Текст: —' | chat_id: 8760803948 | is_private: True
+2026-03-15 02:14:50,299 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8760803948:AAEUCVnpVmQG_c9MIRy1ux0TwySxk9pni2w/sendMessage "HTTP/1.1 200 OK"
+2026-03-15 02:14:50,482 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8760803948:AAEUCVnpVmQG_c9MIRy1ux0TwySxk9pni2w/sendMessage "HTTP/1.1 200 OK"
+2026-03-15 02:14:50,487 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '🗑 Удалено в «Cre7»
+От: @Okcpok [медиа]
+Текст: —' | chat_id: 8760803948 | is_private: True
+2026-03-15 02:14:50,601 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8760803948:AAEUCVnpVmQG_c9MIRy1ux0TwySxk9pni2w/sendMessage "HTTP/1.1 200 OK"
+2026-03-15 02:14:50,616 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '🗑 Удалено в «Cre7»
+От: @Okcpok [медиа]
+Текст: —' | chat_id: 8760803948 | is_private: True
+2026-03-15 02:15:56,576 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '🗑 Удалено в «Cre7»
+От: @Okcpok [медиа]
+Текст: —' | chat_id: 8760803948 | is_private: True
+2026-03-15 02:15:56,603 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8760803948:AAEUCVnpVmQG_c9MIRy1ux0TwySxk9pni2w/sendMessage "HTTP/1.1 200 OK"
+2026-03-15 02:15:56,692 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8760803948:AAEUCVnpVmQG_c9MIRy1ux0TwySxk9pni2w/sendMessage "HTTP/1.1 200 OK"
+2026-03-15 02:15:56,739 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '🗑 Удалено в «Cre7»
+От: @Okcpok [медиа]
+Текст: —' | chat_id: 8760803948 | is_private: True
+2026-03-15 02:17:00,033 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'ывмывмв' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:17:00,169 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'м' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:17:00,292 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'ыв' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:17:00,477 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'м' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:17:00,659 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'ывм' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:17:00,969 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'вым' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:17:01,027 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'ы' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:17:01,170 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'вм' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:17:01,475 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'ывм' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:17:01,610 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'вы' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:17:01,907 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'м' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:17:04,699 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '🗑 Удалено в «Cre7»
+От: @Okcpok
+Текст: ывмывмв' | chat_id: 8760803948 | is_private: True
+2026-03-15 02:17:04,780 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8760803948:AAEUCVnpVmQG_c9MIRy1ux0TwySxk9pni2w/sendMessage "HTTP/1.1 200 OK"
+2026-03-15 02:17:04,913 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '🗑 Удалено в «Cre7»
+От: @Okcpok
+Текст: м' | chat_id: 8760803948 | is_private: True
+2026-03-15 02:17:04,917 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8760803948:AAEUCVnpVmQG_c9MIRy1ux0TwySxk9pni2w/sendMessage "HTTP/1.1 200 OK"
+2026-03-15 02:17:05,044 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8760803948:AAEUCVnpVmQG_c9MIRy1ux0TwySxk9pni2w/sendMessage "HTTP/1.1 200 OK"
+2026-03-15 02:17:05,065 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '🗑 Удалено в «Cre7»
+От: @Okcpok
+Текст: ыв' | chat_id: 8760803948 | is_private: True
+2026-03-15 02:17:05,213 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8760803948:AAEUCVnpVmQG_c9MIRy1ux0TwySxk9pni2w/sendMessage "HTTP/1.1 200 OK"
+2026-03-15 02:17:05,234 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '🗑 Удалено в «Cre7»
+От: @Okcpok
+Текст: м' | chat_id: 8760803948 | is_private: True
+2026-03-15 02:17:05,315 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8760803948:AAEUCVnpVmQG_c9MIRy1ux0TwySxk9pni2w/sendMessage "HTTP/1.1 200 OK"
+2026-03-15 02:17:05,359 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '🗑 Удалено в «Cre7»
+От: @Okcpok
+Текст: ывм' | chat_id: 8760803948 | is_private: True
+2026-03-15 02:17:05,419 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8760803948:AAEUCVnpVmQG_c9MIRy1ux0TwySxk9pni2w/sendMessage "HTTP/1.1 200 OK"
+2026-03-15 02:17:05,448 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '🗑 Удалено в «Cre7»
+От: @Okcpok
+Текст: вым' | chat_id: 8760803948 | is_private: True
+2026-03-15 02:17:05,537 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: 'ывя' | chat_id: 1935382886 | is_private: True
+2026-03-15 02:17:05,617 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8760803948:AAEUCVnpVmQG_c9MIRy1ux0TwySxk9pni2w/sendMessage "HTTP/1.1 200 OK"
+2026-03-15 02:17:05,631 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '🗑 Удалено в «Cre7»
+От: @Okcpok
+Текст: ы' | chat_id: 8760803948 | is_private: True
+2026-03-15 02:17:05,765 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8760803948:AAEUCVnpVmQG_c9MIRy1ux0TwySxk9pni2w/sendMessage "HTTP/1.1 200 OK"
+2026-03-15 02:17:05,810 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '🗑 Удалено в «Cre7»
+От: @Okcpok
+Текст: вм' | chat_id: 8760803948 | is_private: True
+2026-03-15 02:17:05,879 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8760803948:AAEUCVnpVmQG_c9MIRy1ux0TwySxk9pni2w/sendMessage "HTTP/1.1 200 OK"
+2026-03-15 02:17:05,941 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '🗑 Удалено в «Cre7»
+От: @Okcpok
+Текст: ывм' | chat_id: 8760803948 | is_private: True
+2026-03-15 02:17:06,056 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '🗑 Удалено в «Cre7»
+От: @Okcpok
+Текст: вы' | chat_id: 8760803948 | is_private: True
+2026-03-15 02:17:06,059 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8760803948:AAEUCVnpVmQG_c9MIRy1ux0TwySxk9pni2w/sendMessage "HTTP/1.1 200 OK"
+2026-03-15 02:17:06,167 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8760803948:AAEUCVnpVmQG_c9MIRy1ux0TwySxk9pni2w/sendMessage "HTTP/1.1 200 OK"
+2026-03-15 02:17:06,208 - __main__ - INFO - 📨 ВХОДЯЩЕЕ сообщение: '🗑 Удалено в «Cre7»
+От: @Okcpok
+Текст: м' | chat_id: 8760803948 | is_private: True
+2026-03-15 02:18:35,739 - telethon.network.connection.connection - WARNING - Server closed the connection: [WinError 1236] Подключение к сети было разорвано локальной системой
+2026-03-15 02:18:35,754 - telethon.network.mtprotosender - INFO - Connection closed while receiving data: [WinError 1236] Подключение к сети было разорвано локальной системой
+2026-03-15 02:18:35,757 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2026-03-15 02:18:35,757 - telethon.network.connection.connection - INFO - <class 'ConnectionAbortedError'> during disconnect: [WinError 1236] Подключение к сети было разорвано локальной системой
+2026-03-15 02:18:35,759 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-03-15 02:18:35,832 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2026-03-15 02:22:18,294 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2026-03-15 02:22:18,295 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-03-15 02:22:18,367 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
